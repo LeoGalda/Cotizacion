@@ -1,0 +1,9 @@
+/home/leogalda/NetBeansProjects/cotizaciones-api/src/main/java/Estrategia/EstrategiaCotizacionDolar.java
+/home/leogalda/NetBeansProjects/cotizaciones-api/src/main/java/HttpClient/ClientServiceCotizacion.java
+/home/leogalda/NetBeansProjects/cotizaciones-api/src/main/java/ApiRestService/CotizacionResource.java
+/home/leogalda/NetBeansProjects/cotizaciones-api/src/main/java/ApiRestService/JAXRSConfiguration.java
+/home/leogalda/NetBeansProjects/cotizaciones-api/src/main/java/Estrategia/EstrategiaCotizacion.java
+/home/leogalda/NetBeansProjects/cotizaciones-api/src/main/java/HttpClient/ClientService.java
+/home/leogalda/NetBeansProjects/cotizaciones-api/src/main/java/Util/Log.java
+/home/leogalda/NetBeansProjects/cotizaciones-api/src/main/java/Estrategia/EstrategiaCotizacionReal.java
+/home/leogalda/NetBeansProjects/cotizaciones-api/src/main/java/Estrategia/EstrategiaCotizacionEuro.java

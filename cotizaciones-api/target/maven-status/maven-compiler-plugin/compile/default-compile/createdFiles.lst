@@ -1,0 +1,9 @@
+ApiRestService/JAXRSConfiguration.class
+Util/Log.class
+Estrategia/EstrategiaCotizacionReal.class
+Estrategia/EstrategiaCotizacionEuro.class
+Estrategia/EstrategiaCotizacionDolar.class
+HttpClient/ClientService.class
+Estrategia/EstrategiaCotizacion.class
+HttpClient/ClientServiceCotizacion.class
+ApiRestService/CotizacionResource.class
